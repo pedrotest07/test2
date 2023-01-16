@@ -1,0 +1,7 @@
+nltk
+numpy
+keras
+tensorflow
+flask
+requests
+wsgi
